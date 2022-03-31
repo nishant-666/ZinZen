@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/ZinZen/static/css/main.64788a30.css",
-    "main.js": "/ZinZen/static/js/main.3dd39a0c.js",
-    "static/media/DashboardThemeDark.svg": "/ZinZen/static/media/DashboardThemeDark.088f068cc16bbbb440ec5a20de3e56e6.svg",
-    "static/media/DashboardThemeLight.svg": "/ZinZen/static/media/DashboardThemeLight.76eb072154959aeafd79afbf1e38865e.svg",
-    "static/media/montserrat-all-400-normal.woff": "/ZinZen/static/media/montserrat-all-400-normal.aa917f2f47304e192c88.woff",
-    "static/media/zinzenlogo.png": "/ZinZen/static/media/zinzenlogo.01be2cec5358c5487257.png",
-    "static/media/montserrat-latin-400-normal.woff2": "/ZinZen/static/media/montserrat-latin-400-normal.5d169d5efcd03fdcc0d7.woff2",
-    "static/media/montserrat-latin-ext-400-normal.woff2": "/ZinZen/static/media/montserrat-latin-ext-400-normal.78f49f9fae55910fc2ae.woff2",
-    "static/media/montserrat-cyrillic-ext-400-normal.woff2": "/ZinZen/static/media/montserrat-cyrillic-ext-400-normal.292f0ac24f2654f6e295.woff2",
-    "static/media/montserrat-cyrillic-400-normal.woff2": "/ZinZen/static/media/montserrat-cyrillic-400-normal.57021f86f3fe9d3ba3c8.woff2",
-    "static/media/LogoTextDark.svg": "/ZinZen/static/media/LogoTextDark.22fc166a305f6f22a323f3a07018aa79.svg",
-    "static/media/LogoTextLight.svg": "/ZinZen/static/media/LogoTextLight.8727f12c71c23434f6847dec477fb2c9.svg",
-    "static/media/bookicon.svg": "/ZinZen/static/media/bookicon.f4755b7b5438912852714de9a17da411.svg",
-    "static/media/montserrat-vietnamese-400-normal.woff2": "/ZinZen/static/media/montserrat-vietnamese-400-normal.ba00b1a6e1e5778dbf9b.woff2",
-    "index.html": "/ZinZen/index.html",
-    "main.64788a30.css.map": "/ZinZen/static/css/main.64788a30.css.map",
-    "main.3dd39a0c.js.map": "/ZinZen/static/js/main.3dd39a0c.js.map"
+    "main.css": "/static/css/main.0d5ff741.css",
+    "main.js": "/static/js/main.483f79d4.js",
+    "static/media/DashboardThemeDark.svg": "/static/media/DashboardThemeDark.088f068cc16bbbb440ec5a20de3e56e6.svg",
+    "static/media/DashboardThemeLight.svg": "/static/media/DashboardThemeLight.76eb072154959aeafd79afbf1e38865e.svg",
+    "static/media/montserrat-all-400-normal.woff": "/static/media/montserrat-all-400-normal.aa917f2f47304e192c88.woff",
+    "static/media/zinzenlogo.png": "/static/media/zinzenlogo.01be2cec5358c5487257.png",
+    "static/media/montserrat-latin-400-normal.woff2": "/static/media/montserrat-latin-400-normal.5d169d5efcd03fdcc0d7.woff2",
+    "static/media/montserrat-latin-ext-400-normal.woff2": "/static/media/montserrat-latin-ext-400-normal.78f49f9fae55910fc2ae.woff2",
+    "static/media/montserrat-cyrillic-ext-400-normal.woff2": "/static/media/montserrat-cyrillic-ext-400-normal.292f0ac24f2654f6e295.woff2",
+    "static/media/montserrat-cyrillic-400-normal.woff2": "/static/media/montserrat-cyrillic-400-normal.57021f86f3fe9d3ba3c8.woff2",
+    "static/media/LogoTextDark.svg": "/static/media/LogoTextDark.22fc166a305f6f22a323f3a07018aa79.svg",
+    "static/media/LogoTextLight.svg": "/static/media/LogoTextLight.8727f12c71c23434f6847dec477fb2c9.svg",
+    "static/media/bookicon.svg": "/static/media/bookicon.f4755b7b5438912852714de9a17da411.svg",
+    "static/media/montserrat-vietnamese-400-normal.woff2": "/static/media/montserrat-vietnamese-400-normal.ba00b1a6e1e5778dbf9b.woff2",
+    "index.html": "/index.html",
+    "main.0d5ff741.css.map": "/static/css/main.0d5ff741.css.map",
+    "main.483f79d4.js.map": "/static/js/main.483f79d4.js.map"
   },
   "entrypoints": [
-    "static/css/main.64788a30.css",
-    "static/js/main.3dd39a0c.js"
+    "static/css/main.0d5ff741.css",
+    "static/js/main.483f79d4.js"
   ]
 }
