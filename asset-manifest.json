@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.0d5ff741.css",
-    "main.js": "/static/js/main.483f79d4.js",
+    "main.css": "/static/css/main.d4b7a8ce.css",
+    "main.js": "/static/js/main.09fb3638.js",
     "static/media/DashboardThemeDark.svg": "/static/media/DashboardThemeDark.088f068cc16bbbb440ec5a20de3e56e6.svg",
     "static/media/DashboardThemeLight.svg": "/static/media/DashboardThemeLight.76eb072154959aeafd79afbf1e38865e.svg",
     "static/media/montserrat-all-400-normal.woff": "/static/media/montserrat-all-400-normal.aa917f2f47304e192c88.woff",
@@ -15,11 +15,11 @@
     "static/media/bookicon.svg": "/static/media/bookicon.f4755b7b5438912852714de9a17da411.svg",
     "static/media/montserrat-vietnamese-400-normal.woff2": "/static/media/montserrat-vietnamese-400-normal.ba00b1a6e1e5778dbf9b.woff2",
     "index.html": "/index.html",
-    "main.0d5ff741.css.map": "/static/css/main.0d5ff741.css.map",
-    "main.483f79d4.js.map": "/static/js/main.483f79d4.js.map"
+    "main.d4b7a8ce.css.map": "/static/css/main.d4b7a8ce.css.map",
+    "main.09fb3638.js.map": "/static/js/main.09fb3638.js.map"
   },
   "entrypoints": [
-    "static/css/main.0d5ff741.css",
-    "static/js/main.483f79d4.js"
+    "static/css/main.d4b7a8ce.css",
+    "static/js/main.09fb3638.js"
   ]
 }
