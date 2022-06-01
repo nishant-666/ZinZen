@@ -47,8 +47,8 @@ export const GoalsForm = () => {
     setTableData([]);
   };
   function suggestion() {
-    if (formInputData.inputGoal.indexOf('daily') !== -1) {
-      return 'daily';
+    if (formInputData.inputGoal.indexOf(`${t('daily')}`) !== -1) {
+      return `${t('daily')}`;
     }
     return '';
   }
@@ -103,7 +103,7 @@ export const GoalsForm = () => {
              ? { backgroundColor: darkrooms[selectedColorIndex] }
              : { backgroundColor: lightcolors[selectedColorIndex] }
                 }
-          className={suggestion() === 'daily'
+          className={suggestion() === `${t('daily')}`
             ? 'suggestion'
             : 'blank'}
         >
